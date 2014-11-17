@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ad",
+				"admin_users"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"hell",
+				"Hello"
+			],
+			[
+				"vi",
+				"via"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"co",
+				"controller"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"res",
+				"res2"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"ma",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"file",
+				"File: Close All"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/seema/rails/Sites/simple_cms/app/views/demo/hello.html.erb",
+		"/home/seema/rails/Sites/simple_cms/app/controllers/demo_controller.rb",
+		"/home/seema/rails/Sites/simple_cms/app/models/user.rb",
+		"/home/seema/rails/Sites/simple_cms/db/migrate/20141029054200_do_nothing_yet.rb",
+		"/home/seema/rails/Sites/simple_cms/config/database.yml",
+		"/home/seema/rails/Sites/simple_cms/Gemfile",
+		"/home/seema/rails/Sites/simple_cms/config/routes.rb",
+		"/home/seema/rails/Sites/simple_cms/app/views/demo/index.html.erb",
+		"/home/seema/excercises/javascript/form.html",
+		"/home/seema/excercises/javascript/form.js",
+		"/home/seema/excercises/javascript/form_excercise/form.js",
+		"/home/seema/excercises/javascript/form-val.css",
+		"/home/seema/Documents/payu/redmine/plugins/redmine_contacts/app/models/contacts_setting.rb",
+		"/home/seema/excercises/javascript/question.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "user.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/my docs/study/ruby on rails tut/mvc arch"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

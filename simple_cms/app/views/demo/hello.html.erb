@@ -1,0 +1,19 @@
+<h1>Demo#hello</h1>
+<p>Hello India</p>
+
+<%= 1+6 %>
+<br/>
+
+<% target= "world" %>
+<%= "Hello #{target}" %>
+<br/>
+
+<% @array.each do |n| %>
+<%= n %><br />
+<% end %><br />
+
+ID: <%= @id%><br />
+ID: <%= params[:id]%><br />
+Page: <%= @page %>
+<hr />
+<%= params.inspect %>

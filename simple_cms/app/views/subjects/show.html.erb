@@ -1,0 +1,31 @@
+<%= link_to("<< Back to list", {:action => 'index'}, :class => 'back-link') %>
+<div class="subjects show">
+	<h2>Show Subject</h2>
+
+	<table summary="Subject detail view">
+		<tr>
+			<th>Name</th>
+			<td><%= @subjects.name %></td>
+		</tr>
+		<tr>
+			<th>Position</th>
+			<td><%= @subjects.position %></td>
+		</tr>
+		<tr>
+			<th>Visible?</th>
+			<td><%= @subjects.visible ? 'true' : 'false' %></td>
+		</tr>
+		<tr>
+			<th>Page Number</th>
+			<td><%= @subjects.page_num %></td>
+		</tr>
+		<tr>
+			<th>Created</th>
+			<td><%= @subjects.created_at %></td>
+		</tr>
+		<tr>
+			<th>Updated</th>
+			<td><%= @subjects.updated_at %></td>
+		</tr>
+	</table>
+</div>
